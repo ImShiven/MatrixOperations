@@ -1,6 +1,6 @@
-# MatrixOperations
+## MatrixOperations
 This repository contains code in c# for most common matrix operations required while working in the world of machine learning
-# Matrix operations:
+## Matrix operations:
   * Matrix Addition
   * Matrix Product
   * Matrix Transpose
